@@ -1,0 +1,51 @@
+Company,Ticker,Sector,Year,Health_Score,Tier
+Abbott Labs,ABT,Healthcare,2023,63.5,
+Abbott Labs,ABT,Healthcare,2024,79.0,Thriving
+AbbVie,ABBV,Healthcare,2023,55.0,
+AbbVie,ABBV,Healthcare,2024,50.0,Stable
+Cigna,CI,Healthcare,2023,56.5,
+Cigna,CI,Healthcare,2024,35.0,At-Risk
+CVS Health,CVS,Healthcare,2023,41.5,
+CVS Health,CVS,Healthcare,2024,27.0,At-Risk
+Humana,HUM,Healthcare,2023,54.0,
+Humana,HUM,Healthcare,2024,49.0,At-Risk
+Johnson & Johnson,JNJ,Healthcare,2023,81.5,
+Johnson & Johnson,JNJ,Healthcare,2024,70.5,Thriving
+Merck,MRK,Healthcare,2023,42.5,
+Merck,MRK,Healthcare,2024,77.5,Stable
+Pfizer,PFE,Healthcare,2023,33.5,
+Pfizer,PFE,Healthcare,2024,55.0,Thriving
+Thermo Fisher,TMO,Healthcare,2023,56.5,
+Thermo Fisher,TMO,Healthcare,2024,53.5,Thriving
+UnitedHealth,UNH,Healthcare,2023,65.5,
+UnitedHealth,UNH,Healthcare,2024,53.5,Stable
+Amazon,AMZN,Retail,2023,73.5,
+Amazon,AMZN,Retail,2024,78.5,Thriving
+Burlington Stores,BURL,Retail,2024,62.5,Stable
+Costco,COST,Retail,2023,55.5,
+Costco,COST,Retail,2024,57.5,At-Risk
+Dollar General,DG,Retail,2024,51.0,Stable
+Home Depot,HD,Retail,2024,69.5,Stable
+Kohl's,KSS,Retail,2024,32.0,At-Risk
+Lowe's,LOW,Retail,2024,62.0,Thriving
+Macy's,M,Retail,2024,25.0,At-Risk
+Target,TGT,Retail,2024,59.0,Stable
+Walmart,WMT,Retail,2024,53.0,At-Risk
+Alphabet,GOOGL,Tech,2023,71.0,
+Alphabet,GOOGL,Tech,2024,73.5,Thriving
+Apple,AAPL,Tech,2023,58.5,
+Apple,AAPL,Tech,2024,57.5,Stable
+Cisco,CSCO,Tech,2023,71.5,
+Cisco,CSCO,Tech,2024,30.0,At-Risk
+IBM,IBM,Tech,2023,35.0,
+IBM,IBM,Tech,2024,28.0,At-Risk
+Intel,INTC,Tech,2023,22.0,
+Intel,INTC,Tech,2024,18.0,At-Risk
+Meta,META,Tech,2023,81.5,
+Meta,META,Tech,2024,83.5,Thriving
+Microsoft,MSFT,Tech,2023,75.0,
+Microsoft,MSFT,Tech,2024,78.0,Thriving
+NVIDIA,NVDA,Tech,2024,88.5,Thriving
+Oracle,ORCL,Tech,2023,61.0,
+Oracle,ORCL,Tech,2024,48.0,Stable
+Salesforce,CRM,Tech,2024,45.0,At-Risk

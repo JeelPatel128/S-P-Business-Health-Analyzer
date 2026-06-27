@@ -1,0 +1,4 @@
+Sector,Company_Count,Avg_Health_Score,Best_Health_Score,Worst_Health_Score,Avg_Profit_Margin_Pct,Avg_Revenue_Growth_Pct,Avg_Debt_to_Equity,Thriving_Count,Stable_Count,At_Risk_Count
+Healthcare,10,55.0,79.0,27.0,11.7,-4.6,2.66,4.0,3.0,3.0
+Retail,10,55.0,78.5,25.0,4.7,1.1,6.12,2.0,4.0,4.0
+Tech,10,55.0,88.5,18.0,20.0,19.0,1.7,4.0,2.0,4.0
